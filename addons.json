@@ -1,0 +1,29 @@
+{
+  "name": "Benis Addons",
+  "addons": [
+    {
+      "repo": "fpcompany/BenisUI",
+      "name": "BenisUI",
+      "author": "Benis",
+      "summary": "A UI overhaul: combined bags, unit and group frames, nameplates, action bars, minimap, chat and Blizzard window skins.",
+      "folders": ["BenisUI"],
+      "icon": "icons/BenisUI.png"
+    },
+    {
+      "repo": "fpcompany/BenisAH",
+      "name": "BenisAH",
+      "author": "Benis",
+      "summary": "Auction house tab that scans for buyouts below vendor price, for a named item under a max price, or for gear upgrades, with one-click buying.",
+      "folders": ["BenisAH"],
+      "icon": "icons/BenisAH.png"
+    },
+    {
+      "repo": "fpcompany/SmellyFarts",
+      "name": "SmellyFarts",
+      "author": "Benis",
+      "summary": "Plays a fart (or a Wilhelm scream, or an oof) when an enemy player dies.",
+      "folders": ["SmellyFarts"],
+      "icon": "icons/SmellyFarts.png"
+    }
+  ]
+}
